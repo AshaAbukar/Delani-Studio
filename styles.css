@@ -41,3 +41,7 @@ padding: 6px;
   margin: auto;
   padding: 70px;
 }
+#name, #email, #message{
+  background-color: transparent;
+  color: white;
+}
