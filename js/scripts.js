@@ -1,5 +1,5 @@
 $("document").ready(function() {
   ("#four").on("click", function(){
-    $(".para1").hide();
+    $(".para1").toggle();
   })
 });
