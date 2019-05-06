@@ -9,3 +9,15 @@ text-align: center;
   text-align: center;
   font-size: 10px;
   font-family: arial;
+}
+.about{
+  background-image: url("images/s_image.jpg");
+  background-size: cover;
+  height: 300px;
+  width: 1200px;
+  display: block;
+  margin: auto;
+  color: white;
+  text-align: center;
+  padding-top: 70px;
+}
