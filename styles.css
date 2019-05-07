@@ -31,15 +31,28 @@ text-align: center;
 .col-md-3 {
 padding: 6px;
 }
+.img{
+  display: flex;
+}
+
+.para{
+  display: flex;
+  width: 31%
+}
+
 .form {
   background-image: url("images/c_image.jpg");
   background-size: cover;
   text-align: center;
-  color: white;
   width: 1400px;
   display: block;
   margin: auto;
   padding: 70px;
+}
+.col-sm-form-group{
+  display: inline-block;
+  color: white;
+  margin: 20px;
 }
 #name, #email, #message{
   background-color: transparent;
@@ -56,6 +69,9 @@ li {
   margin: 10px 10px;
   display: inline-block;
   text-align: center;
+}
+li:hover {
+  background-color: red;
 }
 .text {
   text-align: center;

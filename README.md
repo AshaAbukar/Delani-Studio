@@ -11,9 +11,9 @@ Google chrome/Mozilla and internet connection
 There weren't known bugs at the time of writing.
 
 ## technologies used
-** html
-** CSS
-** javascript
+* html
+* CSS
+* javascript
 
 ## CONTACT
 for more info contact me at aisha63abubakar@gmail.com
