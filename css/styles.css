@@ -4,11 +4,35 @@ background-size: cover;
 margin: 10px;
 color: white;
 text-align: center;
+height: 600px;
+width: 1200px;
+display: block;
+margin: auto;
+margin-top: 20px;
+}
+#logo{
+  margin-top: 215px;
+  width: 5%;
+}
+#h1{
+  margin-top: 35px;
+}
+#h2{
+  margin-top: 30px;
+}
+#mouse {
+  margin-top: 70px;
 }
 .two{
   text-align: center;
-  font-size: 10px;
+  font-size: 12px;
   font-family: arial;
+  line-height: 12px;
+  font-weight: lighter;
+  margin: 50px;
+}
+#service{
+  margin-top: 30px;
 }
 .about{
   background-image: url("images/s_image.jpg");
@@ -20,26 +44,24 @@ text-align: center;
   color: white;
   text-align: center;
   padding-top: 70px;
+  font-size: 12px;
 }
-#pen {
-  text-align: center;
-  padding: 20px;
-}
+
 #port{
   text-align: center;
 }
 .col-md-3 {
 padding: 6px;
 }
-.img{
+.four{
   display: flex;
+  margin: 50px;
 }
-
-.para{
-  display: flex;
-  width: 31%
+#pen {
+  text-align: center;
+  padding: auto;
+  text-align: center;
 }
-
 .form {
   background-image: url("images/c_image.jpg");
   background-size: cover;
@@ -54,7 +76,7 @@ padding: 6px;
   color: white;
   margin: 20px;
 }
-#name, #email, #message{
+#name, #email, #message, #sub{
   background-color: transparent;
   color: white;
 }
