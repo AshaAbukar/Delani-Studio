@@ -46,7 +46,13 @@ margin-top: 20px;
   padding-top: 70px;
   font-size: 12px;
 }
-.hide1 {
+.hide1{
+  display: none;
+}
+.hide2 {
+  display: none;
+}
+.hide3{
   display: none;
 }
 #port{
