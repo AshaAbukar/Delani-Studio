@@ -16,6 +16,3 @@ $("#sub").click(function(event) {
   alert(name + " Thank you for replying");
   event.preventDefault();
 });
-
-
-$("")
